@@ -1,0 +1,6 @@
+CREATE TABLE student_scores (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(50) NOT NULL,
+  subject VARCHAR(50) NOT NULL,
+  score INTEGER NOT NULL
+);
