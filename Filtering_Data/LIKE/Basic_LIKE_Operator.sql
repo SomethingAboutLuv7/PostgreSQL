@@ -1,0 +1,1 @@
+SELECT 'Apple' LIKE 'Apple' AS result;
