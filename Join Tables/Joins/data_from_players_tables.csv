@@ -1,0 +1,6 @@
+"id","team_id","player","role"
+1,1,"Ava","Guard"
+2,1,"Noah","Wing"
+3,2,"Emma","Back"
+4,NULL,"Liam","Guard"
+5,NULL,"Mia","Wing"

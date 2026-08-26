@@ -1,0 +1,8 @@
+"team_id","team","city","player_id","player","role"
+1,"Lions","Rome",1,"Ava","Guard"
+1,"Lions","Rome",2,"Noah","Wing"
+2,"Owls","Oslo",3,"Emma","Back"
+NULL,NULL,NULL,4,"Liam","Guard"
+NULL,NULL,NULL,5,"Mia","Wing"
+4,"Sharks","Lima",NULL,NULL,NULL
+3,"Bears","Bern",NULL,NULL,NULL
