@@ -1,0 +1,7 @@
+"segment","brand","sum"
+"Basic","ABC",200
+"Basic","XYZ",300
+"Basic",NULL,500
+"Premium","ABC",100
+"Premium","XYZ",100
+"Premium",NULL,200

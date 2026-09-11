@@ -1,0 +1,6 @@
+"grouping_brand","grouping_segment","brand","segment","sum"
+0,1,"ABC",NULL,300
+0,1,"XYZ",NULL,400
+1,0,NULL,"Basic",500
+1,0,NULL,"Premium",200
+1,1,NULL,NULL,700
