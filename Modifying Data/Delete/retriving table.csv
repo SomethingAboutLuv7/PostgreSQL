@@ -1,0 +1,11 @@
+"id","title","completed"
+1,"Learn basic SQL syntax",True
+2,"Practice writing SELECT queries",False
+3,"Study PostgreSQL data types",True
+4,"Create and modify tables",False
+5,"Explore advanced SQL concepts",True
+6,"Understand indexes and optimization",False
+7,"Backup and restore databases",True
+8,"Implement transactions",False
+9,"Master PostgreSQL security features",True
+10,"Build a sample application with PostgreSQL",False

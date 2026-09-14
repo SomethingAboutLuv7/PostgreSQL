@@ -1,0 +1,4 @@
+"action","product_id","name","price","stock","status","last_updated","action_type"
+"UPDATE",1,"Laptop",1099.99,75,"active","2026-09-15 00:58:18.848846","active"
+"UPDATE",4,"Monitor",299.99,30,"active","2026-09-15 00:58:18.848846","active"
+"UPDATE",5,"Headphones",89.99,50,"active","2026-09-15 00:58:18.848846","active"

@@ -1,0 +1,4 @@
+CREATE TABLE basket(
+    id SERIAL PRIMARY KEY,
+    fruit VARCHAR(50) NOT NULL
+);

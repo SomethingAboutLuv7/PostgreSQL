@@ -1,0 +1,3 @@
+DELETE FROM todos
+WHERE id = 2
+RETURNING *;
